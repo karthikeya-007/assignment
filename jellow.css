@@ -1,0 +1,74 @@
+/*-------------------universal-----------*/
+*{
+margin:0;
+padding:0;
+}
+
+/*------body----------*/
+body{
+background-color:#000000;
+}
+/*---------------wrepper-----------*/
+#weee{
+       
+       width:800px;
+       margin:20px auto;
+}
+/*-----------header-----------------*/
+header{
+        width:800px;
+        height:100px;
+        background-image:url("new logo.jpg");
+}
+/*-------------navigation--------------*/
+#listtt{
+        width:auto;
+        height:30px;
+        background-color:blue;
+        margin:0;
+        padding-top:5px;
+}
+#listtt li{
+        display:inline;
+        padding-right:20px;
+        color:white;
+}
+#listtt a{ 
+           color:yellow;
+           text-decoration:none;
+}
+
+/*-------------content----------------*/
+#content{
+        width:800px;
+        height:500px;
+        background-color:white;
+}
+/*-------------popups-----------------*/
+#pop{
+     width:470px;
+     height:264px;
+     bottom:50%
+     right:30%;
+     border:2px solid #000000;
+     float:right;
+     border-radius:15px;
+     background-image:url("offers.jpg");
+}
+/*-------------footer----------------*/
+footer{
+        width:800px;
+        height:100px;
+        background-color:blue;
+        border-bottom-left-radius:15px;
+        border-bottom-right-radius:15px;
+
+}
+/*--------------search----------------*/
+#find{
+float:right;
+
+}
+#hehh{
+margin:0;
+}
